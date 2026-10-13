@@ -46,7 +46,7 @@ void test01() {
 
 //赋值操作
 void test02() {
-
+	  
 	vector<int>v1;
 	for (int i = 0; i < 10; i++) {
 		//往里面插入数据
